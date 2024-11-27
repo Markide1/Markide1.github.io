@@ -2,8 +2,8 @@
 
 Welcome to my GitHub portfolio! Here you'll find a collection of my projects, both public and private, showcasing my skills and experience in various technologies.
 
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/my-portfolio?style=social)
+![GitHub followers](https://img.shields.io/github/followers/Markide1?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Markide1/my-portfolio?style=social)
 
 ## Projects
 
