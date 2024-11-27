@@ -41,7 +41,12 @@ An employee management system focused on attendance tracking and leave managemen
 - User-friendly interface
 
 **Technologies:**
-- [Your tech stack here]
+- Java
+- Spring Boot
+- Database Management
+- HTML
+- CSS
+- JavaScript
 
 ### 5. 9R-System (Private)
 A comprehensive hotel booking management system.
