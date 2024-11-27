@@ -51,27 +51,8 @@ An experimental TypeScript-based authentication system that demonstrates email r
 ![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 ![Security](https://img.shields.io/badge/Security-4A90E2?style=for-the-badge&logo=shield&logoColor=white)
 
-### 4. FALMS Dashboard (Private)
-An employee management system focused on attendance tracking and leave management.
 
-**Key Features:**
-- Admin Panel
-- User Panel
-- HrTeam Panel
-- Leave Request Management
-- Attendance Tracking
-- User-friendly Interface
-
-**Technologies:**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 5. 9R-System (Private)
+### 4. 9R-System (Private)
 A comprehensive hotel servicebooking management system.
 
 **Key Features:**
@@ -87,7 +68,7 @@ A comprehensive hotel servicebooking management system.
 ![php](https://img.shields.io/badge/php-F7DF1E?style=for-the-badge&logo=php&logoColor=black)
 ![mysql](https://img.shields.io/badge/mysql-F7DF1E?style=for-the-badge&logo=mysql&logoColor=black)
 
-### 6. Prac (Private)
+### 5. Prac (Private)
 A booking system designed for local service providers.
 
 **Key Features:**
